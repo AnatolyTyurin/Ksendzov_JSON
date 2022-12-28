@@ -1,1 +1,18 @@
-
+{
+  "Bug ID":"1",
+  "Environment/Application version":"Xiaomi mi9/Android 10",
+  "Title":"Article image fails to load when tap [Next] on any Article screen",
+  "STR":[
+   "1. Open the application",
+   "2. Tap bottom tab [Articles]",
+   "3. Tap any Article card",
+   "4. Scroll down and tap [Next]"
+    ],
+  "AR":"Article image fails to load",
+  "ER":"Article image is displayed",
+  "Attachment":"Link",
+  "Severity":"Minor",
+  "Priority":"N/a",
+  "Author":"Anatoly Tyurin"
+}
+  
