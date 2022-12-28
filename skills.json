@@ -1,0 +1,60 @@
+{
+	"knowledge to learn":{
+		"basic testing theory":[
+			"QA,QC,testing",
+			"bug reports",
+			"testing documentation",
+			"types and methods of testing",
+			"SDLC",
+			"STLC"
+		],
+		"HTTP":[
+			"client-server architecture",
+			"HTTP methods of requests",
+			"HTTP server response codes",
+			"Structures of HTTP requests and responses"
+		],
+		"data interchange format":[
+			"JSON",
+			"XML"
+		],
+		"API":[
+			"Postman",
+			"JS",
+			"API autotests"
+		],
+		"sniffing":[
+			"Charles",
+			"Fiddler"
+		],
+		"DevTools":[
+			"Google Chrome",
+			"FireFox"
+		],
+		"VPN":[
+			"General info",
+			"Tool options"
+		],
+		"Mobile testing":[
+			"IOS",
+			"Android",
+			"XCode",
+			"Android Studio",
+			"ADB",
+			"Proxy and vpn settings on iOS and Android",
+			"Sniffing traffic using Charles and Fiddler on IOS and Android"
+		],
+		"Linux Terminal":[
+			"Copying, creating, viewing, moving files and etc.",
+			"Base of Bash scripting",
+			"Access to remote servers"
+		],
+		"SQL":[
+			"Create, Delete, Drop, Insert Into, Select, From, Where, Join",
+			"PostgreSQL",
+			"Redis"
+		],
+		"Load testing":"Jmeter",
+   		"Development methodology":"SCRUM",
+		"Programming language":"Base of Python"
+	}
