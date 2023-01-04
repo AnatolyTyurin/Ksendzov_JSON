@@ -12,19 +12,13 @@ git clone https://github.com/AnatolyTyurin/Ksendzov_JSON.git
 
 vim new.json
 
-{
-
+        {
         "first_name":"Anatoly",
-
         "last_name":"Tyurin",
-
         "age":35,
-
         "pets":"-",
-
         "desired salary":"USD 1000"
-
-}
+        }
 
 11. Отправить изменения на внешний репозиторий. –
 git commit -am "add text to new.json”
@@ -34,26 +28,19 @@ git push
 
 vim new.json
 
-{
-
+        {
         "favourite film":"Existenz",
-
-        "favourite TV series":"Breaking Bad",
-        
+        "favourite TV series":"Breaking Bad",       
         "favourite food":"mama's homemade food",
-        
         "favourite season":"summer",
-        
         "desired country to visit":"State of Maine, the USA"
-
-}
+        }
 
 14. Создать файл skills.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
 
 vim skills.json
 
-{
-
+        {
         "knowledge to learn":{
                 "basic testing theory":[
                         "QA,QC,testing",
@@ -112,7 +99,7 @@ vim skills.json
                 "Load testing":"Jmeter",
                 "Development methodology":"SCRUM",
                 "Programming language":"Base of Python"
-}
+        }
 
 15. Отправить сразу 2 файла на внешний репозиторий. – 
 
